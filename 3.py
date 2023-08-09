@@ -11,3 +11,6 @@ ilosc_samoglosek = zlicz_samogloski(slowo_uzytkownika)
 print("Liczba samogłosek w słowie '{}' wynosi: {}".format(slowo_uzytkownika, ilosc_samoglosek))
 
 print("Hello World !")
+
+
+
