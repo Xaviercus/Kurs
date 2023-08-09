@@ -8,4 +8,6 @@ try:
     liczba = int(input("Podaj liczbe: "))
     sprawdz_parzystosc(liczba)
 except ValueError:
-    print("To nie jest poprawna liczb. Spróbuj ponownie.")
+    print("To nie jest poprawna liczb. Spróbuj ponownie.")tyjjyj
+
+
